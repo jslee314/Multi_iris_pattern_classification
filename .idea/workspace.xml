@@ -60,7 +60,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593419077686</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="multi-label commit">
+      <created>1593482606739</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1593482606739</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -89,14 +96,14 @@
     <option name="LAST_COMMIT_MESSAGE" value="multi-label commit" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="2550" y="244" key="CommitChangelistDialog2" timestamp="1593419076772">
+    <state x="2550" y="244" key="CommitChangelistDialog2" timestamp="1593482605804">
       <screen x="1920" y="0" width="2048" height="1120" />
     </state>
-    <state x="2550" y="244" key="CommitChangelistDialog2/1920.0.2048.1120/0.0.1920.1040@1920.0.2048.1120" timestamp="1593419076772" />
-    <state x="2537" y="289" key="Vcs.Push.Dialog.v2" timestamp="1593419094260">
+    <state x="2550" y="244" key="CommitChangelistDialog2/1920.0.2048.1120/0.0.1920.1040@1920.0.2048.1120" timestamp="1593482605804" />
+    <state x="2537" y="289" key="Vcs.Push.Dialog.v2" timestamp="1593482616295">
       <screen x="1920" y="0" width="2048" height="1120" />
     </state>
-    <state x="2537" y="289" key="Vcs.Push.Dialog.v2/1920.0.2048.1120/0.0.1920.1040@1920.0.2048.1120" timestamp="1593419094260" />
+    <state x="2537" y="289" key="Vcs.Push.Dialog.v2/1920.0.2048.1120/0.0.1920.1040@1920.0.2048.1120" timestamp="1593482616295" />
     <state x="2747" y="469" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1593418431528">
       <screen x="1920" y="0" width="2048" height="1120" />
     </state>
